@@ -1,10 +1,7 @@
 target/
 bin/
-build/
-out/
+*.class
+*.log
 .idea/
+.vscode/
 *.iml
-.classpath
-.project
-.settings/
-.DS_Store
